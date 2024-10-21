@@ -1,0 +1,2 @@
+# Travel_planner
+The Travel Planner Using Graphs project is a fascinating application of graph theory, it shows how graphs can be used to plan optimal travel routes. Users can visualize and interact with different cities (nodes) and routes (edges) to find the shortest or most efficient paths using algorithms like Dijkstra's and the Bellman-Ford algorithm. This project provides a practical understanding of graph theory and its real-world applications in route planning and network optimization.
